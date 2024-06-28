@@ -1,0 +1,12 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "projetos de testes de ponta a ponta no mark L",
+  "main": "index.js",
+  "author": "Rafael Moraes",
+  "license": "MIT",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+    "cypress": "12.2.0"
+  }
+}
